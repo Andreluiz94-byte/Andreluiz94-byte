@@ -5,7 +5,7 @@
 
 
 **A brief summary** 👉
-I started by learning frontend development, focusing on HTML, CSS, and JavaScript. As I progressed, I became interested in backend development. I have been explore languages like Python, Java, C#, PHP and frameworks like Node.js.
+I started by learning frontend development, focusing on HTML, CSS, and JavaScript. As I progressed, I became interested in backend development. I have been explore languages like Python, Java, C#, PHP and Node.js.
 
 Now, I want to become a full stack developer. I aim to combine my frontend and backend skills to create complete web applications. My goal is to work proficiently across the entire development stack, and I'm committed to acquiring the necessary skills to achieve that.
 
